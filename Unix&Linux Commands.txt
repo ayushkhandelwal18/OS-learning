@@ -1,0 +1,63 @@
+File and Directory Management
+
+ls : Lists the contents of a directory.
+
+cd : Changes the current directory.
+
+pwd : Prints the current working directory.
+
+mkdir : Creates a new directory.
+
+rmdir : Removes an empty directory.
+
+cp : Copies files or directories.
+
+mv : Moves or renames files or directories.
+
+rm : Removes files or directories.
+
+touch : Creates an empty file or updates file timestamps.
+
+cat : Displays the content of files.
+
+head : Displays the beginning of a file.
+
+tail : Displays the end of a file.
+
+File Permissions and Ownership
+
+chmod : Changes file or directory permissions.
+
+chown : Changes file or directory ownership.
+
+Process Management
+
+ps : Displays information about running processes.
+
+kill : Terminates processes.
+
+System Information
+
+uname : Prints system information.
+
+whoami : Displays the current username.
+
+date : Displays or sets the system date and time.
+
+Text Processing and Searching
+
+grep : Searches for patterns within files.
+
+wc : Counts words, lines, and characters in a file.
+
+sort : Sorts lines of text files.
+
+diff : Compares two files and shows the differences.
+
+Utilities
+
+man : Displays the manual pages for commands.
+
+clear : Clears the terminal screen.
+
+echo : Displays a line of text.
